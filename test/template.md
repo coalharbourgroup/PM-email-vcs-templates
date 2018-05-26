@@ -1,30 +1,31 @@
 # Subject
-Test Template
+Password reset request
 
 # Html
 <div mc:edit="header">
     <p>*|FNAME|*,</p>
-    <p>Thank you for completing your Parking Education course.  We have attached your certificate of course completion.</p>
-    <p>We have notified *|GOVERNMENT|* that you have fulfilled your requirements with regard to your citation with case #*|CASE_NUMBER|* in relation to accessible parking for people with disabilities.</p>
+    <p>We received a request to reset the password associated with this e-mail address.</p>
 </div>
 <div mc:edit="main">
-    <p>Although there is nothing further for you to do, we encourage you to keep this email as proof of fulfilling your obligations with regard to your citation with case #*|CASE_NUMBER|*.</p>
+    <p>If you made this request, to reset your password using our secure server <a href="https://app.parkingmobility.com/forgotpassword/*|URL|*">please click here</a>.</p>
+    <p>If you did not request to have your password reset you can safely ignore this email. Rest assured your customer account is safe.</p>
+    <p>Parking Mobility will never e-mail you and ask you to disclose or verify your password or any other personal information. If you receive a suspicious e-mail with a link to update your account information, do not click on the link. Instead, please send us an email at support@parkingmobility.com.</p>
     <br/>
 </div>
 <div mc:edit="footer">
-Sincerely,<br/>
-The Parking Education Team
+Accessibly yours,<br/>
+The Parking Mobility Team
 </div>
 
 # Text
-Test Text
+
 
 # Labels
-* test
-* template
+* changepassword
 
 # From Email
-support@parkingeducation.com
+support@parkingmobility.com
 
 # From Name
-Parking Education
+Parking Mobility
+
